@@ -1,5 +1,5 @@
 # include <iostream.h>
 int main (){
-  cout<<"Hello Wprld!!";
+  cout<<"Hello World!!";
   return 0;
 }
